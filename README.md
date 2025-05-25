@@ -1,4 +1,4 @@
-# 👋 Welcome to My Portfolio
+# 👋 Welcome to GitHub Repo
 
 ### Hi there! I'm **Walid Amar**, an AI Founder and Software Engineer passionate about developing cutting-edge AI solutions that solve real-world problems. With expertise in automation, fraud detection, and scalable architecture, I strive to leverage technology to create meaningful impact.
 
