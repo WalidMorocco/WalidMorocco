@@ -1,18 +1,18 @@
-# 👋 Welcome to GitHub Repo
+# Welcome to my Repo
 
 ### Hi there! I'm **Walid Amar**, an AI Founder and Software Engineer passionate about developing cutting-edge AI solutions that solve real-world problems. With expertise in automation, fraud detection, and scalable architecture, I strive to leverage technology to create meaningful impact.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌟 **Role:** CTO at Zyplow, focusing on AI-driven fraud detection and prevention solutions for the insurance industry.
-- 🧠 **Expertise:** AI Model Development, Automation, and Advanced Data Analytics.
-- 🌍 **Background:** International experience in building innovative AI platforms and leading tech projects.
+- **Role:** CTO at Zyplow, focusing on AI-driven fraud detection and prevention solutions for the insurance industry. Founder of Waythor.
+- **Expertise:** AI Model Development, Automation, and Advanced Data Analytics.
+- **Background:** International experience in building innovative AI platforms and leading tech projects.
 
 ---
 
-## 💡 What I Do
+## What I Do
 
 ### **AI Solutions**
 - Develop and fine-tune AI models (NLP, Computer Vision) to solve complex challenges.
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **AI & Machine Learning:** Model Development, NLP, Computer Vision, Fraud Detection.
 - **Automation:** Workflow Automation, API Integration, Scalable Architecture.
@@ -38,8 +38,8 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 📍 Location: Miami, FL, USA  
-- 📧 Email: [walidamarpro@gmail.com](mailto:walidamarpro@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/walid-amar](https://www.linkedin.com/in/walid-amar)  
+- Location: Miami, FL, USA  
+- Email: [wamardev@gmail.com](mailto:wamardev@gmail.com)  
+- LinkedIn: [linkedin.com/in/walid-amar](https://www.linkedin.com/in/walid-amar)  
